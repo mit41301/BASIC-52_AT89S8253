@@ -1,4 +1,4 @@
-## MCS8051 - AT89S8253
+## MCS8051 - AT89S8253 BASIC-52 + I2C and SFR
 ![MCS8051_AT89S8253 (1)](https://github.com/user-attachments/assets/d93b633e-93c2-4956-ab7e-d691c641b0a3)
 
 ![1828](https://github.com/user-attachments/assets/980f8815-3f30-42e2-ba36-439f286fb07b)
